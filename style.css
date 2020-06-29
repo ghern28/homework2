@@ -1,4 +1,12 @@
 /* Added Google Font Merriweather to all three html files */
 * {
   font-family: "Merriweather", serif;
+  text-align: center;
+}
+.container {
+  background-color: cornflowerblue;
+}
+
+body {
+  background-color: gray;
 }
