@@ -10,3 +10,8 @@
 body {
   background-color: gray;
 }
+
+.card-tittle {
+  font-size: 30px;
+  font-weight: bold;
+}
