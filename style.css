@@ -1,0 +1,4 @@
+/* Added Google Font Merriweather to all three html files */
+* {
+  font-family: "Merriweather", serif;
+}
