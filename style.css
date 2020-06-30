@@ -13,7 +13,6 @@ body {
 }
 #firstRow {
   margin: 10vh;
-  ba
 }
 
 #aboutImage {
@@ -30,8 +29,10 @@ body {
   color: black;
 }
 
-.card {background-color: cornflowerblue;
-color: black;}
+.card {
+  background-color: cornflowerblue;
+  color: black;
+}
 
 #form {
   background-color: cornflowerblue;
