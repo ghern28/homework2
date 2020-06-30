@@ -2,10 +2,6 @@
 * {
   font-family: "Merriweather", serif;
 }
-.container {
-  background-color: cornflowerblue;
-  width: 80%;
-}
 
 body {
   background-color: gray;
@@ -14,4 +10,29 @@ body {
 .card-tittle {
   font-size: 30px;
   font-weight: bold;
+}
+#firstRow {
+  margin: 10vh;
+  ba
+}
+
+#aboutImage {
+  width: 100%;
+  height: auto;
+}
+
+#myCard {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.card {background-color: cornflowerblue;
+color: black;}
+
+#form {
+  background-color: cornflowerblue;
 }
